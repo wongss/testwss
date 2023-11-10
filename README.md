@@ -12,3 +12,5 @@ Welcome home\
 Again and again
 
 A new line is done with a blank line above
+## Heading 3
+Hi there\
