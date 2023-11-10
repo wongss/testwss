@@ -1,8 +1,10 @@
 # Demo git
 This is the first file in this repo
 
-## 2nd heading
+## Heading2
 Testing\
 More added\
 More\
 Mnd more
+## Heading 2
+Hi
