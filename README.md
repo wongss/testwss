@@ -1,7 +1,7 @@
 # Demo git
 This is the first file in this repo
 
-## Heading2
+## Heading 1
 Testing\
 More added\
 More\
