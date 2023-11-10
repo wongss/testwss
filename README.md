@@ -10,3 +10,5 @@ Mnd more
 Hi there\
 Welcome home\
 Again and again
+
+A new line is done with a blank line above
